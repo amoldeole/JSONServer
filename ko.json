@@ -1,0 +1,68 @@
+{
+  "app": {
+    "title": "이데프 우이",
+    "oversight": "감독",
+    "pages": {
+      "login": {
+        "title": "사용자가 로그인합니다",
+        "welcome": "자세한 내용은 필요한 경우 쉽게 확인할 수 있습니다",
+        "tm": "템",
+        "from.oversight": "감독 시스템에서"
+      },
+      "forgot.password": {
+        "title": "비밀번호를 잊어버렸습니다"
+      },
+      "reset.password": {
+        "title": "암호 재설정"
+      }
+    },
+    "labels": {
+      "email": "전자 메일",
+      "password": "암호입니다",
+      "enter.email": "이메일 주소를 입력합니다",
+      "enter.password": "이메일과 함께 제공된 암호를 입력합니다",
+      "reset.password": "암호 재설정 메시지가 이메일 주소로 전송됩니다.",
+      "header.logo": "헤더 로고입니다",
+      "support": "지원",
+      "copyright": "- 저작권 2003-2021 오버워치 시스템 회사 -",
+      "privacy": "Privacy",
+      "new.password": "New Password",
+      "comfirm.password": "Confirm Password",
+      "enter.new.password": "Enter new Password",
+      "confirm.new.password": "Confirm new Password",
+      "search": "Search",
+      "pwd.requirements": "Password Requirements"
+    },
+    "buttons": {
+      "login": "Login",
+      "continue": "Continue",
+      "back.to.login": "Back to Login page",
+      "forgot.password": "Forgot your password?",
+      "close": "Close",
+      "submit": "Submit",
+      "ok": "Ok"
+    },
+    "messages": {
+      "login.success": "Login successful",
+      "invalid.cred": "Invalid username or password",
+      "reset.instruction": "Instructions for resetting your password have been sent to your email address.",
+      "failed.send.email": "Failed to sent an email",
+      "enter.valid.email": "Please enter a valid e-mail address.",
+      "email.required": "Email address is required.",
+      "dialog.token.expired": "This link is no longer valid. Click Ok to request a new link.",
+      "required.one.lowercase": "Password must contain at least one lowercase character.",
+      "required.one.upparcase": "Password must contain at least one uppercase character.",
+      "required.one.digit": "Password must contain at least one digit.",
+      "required.one.punctuation": "Password must contain at least one punctuation character or punctuation mark.",
+      "min.length": "Password must be at least 8 characters in length.",
+      "pwd.change.validity": "Password may only be changed in 24 hours from the last change.",
+      "no.history.pwd": "Password must not match last 13 passwords.",
+      "no.username.pwd": "Password must not contain your username.",
+      "pwd.required": "Password is required",
+      "pwd.reset.failed": "Password reset failed",
+      "pwd.reset.succeed": "Password has been reset successfully.",
+      "pwd.not.matched": "Passwords do not match",
+      "pwd.confirm.required": "Confirm Password is required"
+    }
+  }
+}
