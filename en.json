@@ -1,0 +1,68 @@
+{
+  "app": {
+    "title": "伊德普 - 烏伊",
+    "oversight": "監督",
+    "pages": {
+      "login": {
+        "title": "使用者登錄",
+        "welcome": "歡迎隨需應得地瞭解詳見",
+        "tm": "泰姆",
+        "from.oversight": "從監督系統"
+      },
+      "forgot.password": {
+        "title": "忘記密碼"
+      },
+      "reset.password": {
+        "title": "密碼重置"
+      }
+    },
+    "labels": {
+      "email": "電子郵件",
+      "password": "密碼",
+      "enter.email": "輸入您的電子郵件位址",
+      "enter.password": "輸入電子郵件附帶的密碼",
+      "reset.password": "密碼重置訊息將發送到您的電子郵件位址。",
+      "header.logo": "標頭徽標",
+      "support": "支援",
+      "copyright": "- 版權所有 2003-2021 監督系統公司 -",
+      "privacy": "Privacy",
+      "new.password": "New Password",
+      "comfirm.password": "Confirm Password",
+      "enter.new.password": "Enter new Password",
+      "confirm.new.password": "Confirm new Password",
+      "search": "Search",
+      "pwd.requirements": "Password Requirements"
+    },
+    "buttons": {
+      "login": "Login",
+      "continue": "Continue",
+      "back.to.login": "Back to Login page",
+      "forgot.password": "Forgot your password?",
+      "close": "Close",
+      "submit": "Submit",
+      "ok": "Ok"
+    },
+    "messages": {
+      "login.success": "Login successful",
+      "invalid.cred": "Invalid username or password",
+      "reset.instruction": "Instructions for resetting your password have been sent to your email address.",
+      "failed.send.email": "Failed to sent an email",
+      "enter.valid.email": "Please enter a valid e-mail address.",
+      "email.required": "Email address is required.",
+      "dialog.token.expired": "This link is no longer valid. Click Ok to request a new link.",
+      "required.one.lowercase": "Password must contain at least one lowercase character.",
+      "required.one.upparcase": "Password must contain at least one uppercase character.",
+      "required.one.digit": "Password must contain at least one digit.",
+      "required.one.punctuation": "Password must contain at least one punctuation character or punctuation mark.",
+      "min.length": "Password must be at least 8 characters in length.",
+      "pwd.change.validity": "Password may only be changed in 24 hours from the last change.",
+      "no.history.pwd": "Password must not match last 13 passwords.",
+      "no.username.pwd": "Password must not contain your username.",
+      "pwd.required": "Password is required",
+      "pwd.reset.failed": "Password reset failed",
+      "pwd.reset.succeed": "Password has been reset successfully.",
+      "pwd.not.matched": "Passwords do not match",
+      "pwd.confirm.required": "Confirm Password is required"
+    }
+  }
+}
